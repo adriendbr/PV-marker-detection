@@ -11,4 +11,4 @@ not yet detected, or that failed to be tracked for some reason are recognised ba
 on colour detection. All these markers positions are stored in a list named
 tracking_paths that is constantly updated when new marker positions are found. The
 markers that are still not detected are simply indicated manually on the frame with
-a mouse click. 
+a mouse click. The code shown is the one used during the first recording of the left side of the athlete.
